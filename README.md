@@ -62,7 +62,7 @@ Designed as both a **professional portfolio showcase** and an **interactive know
     Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with your browser to see the result.
 
 ### 🌐 Project Demo
-![Demo GIF]([https://media.giphy.com/media/xyz123/giphy.gif](https://drive.google.com/drive/u/0/folders/13xjtgX7O7DkeoPtdWwq32M_VM1oJxPZL)) 
+![Demo GIF](https://github.com/zaihl/ai-assisted-knowledge-quiz/blob/master/demo.gif?raw=true) 
 
 -----
 
@@ -153,17 +153,7 @@ Return ONLY valid JSON.
 
 -----
 
-## 🖼️ 5. Screenshots & Recording
-
-> 📷 *Replace the placeholder images and links below with your actual screenshots and demo video.*
-
-| Homepage               | Topic Selection      | Quiz Interface         |
-| ---------------------- | -------------------- | ---------------------- |
-| \![Homepage Screenshot] | \![Topics Screenshot] | \![Quiz Screenshot]     |
-
------
-
-## ⚠️ 6. Known Issues & Potential Improvements
+## ⚠️ 5. Known Issues & Potential Improvements
 
   - **Error Handling**: Currently minimal. Could be improved by adding toast notifications (e.g., using `sonner`) for API errors or invalid user inputs.
   - **AI Response Validation**: Implement robust schema validation (e.g., using `Zod`) on the server-side to ensure the AI's JSON output is always correctly structured before sending it to the client.
@@ -172,7 +162,7 @@ Return ONLY valid JSON.
 
 -----
 
-## ✨ 7. Bonus Features
+## ✨ 6. Bonus Features
 
   - ✔️ **Mandatory Dark Mode**: A sleek, modern, dark-themed UI.
   - ✔️ **Persistent Global Layout**: A consistent sidebar and header across the quiz application.
@@ -184,7 +174,7 @@ Return ONLY valid JSON.
 
 -----
 
-## 🧑‍💻 8. Tech Stack
+## 🧑‍💻 7. Tech Stack
 
   - **Framework**: Next.js (App Router)
   - **Language**: TypeScript
@@ -193,9 +183,5 @@ Return ONLY valid JSON.
   - **AI**: Google Gemini API
 
 -----
-
-## 📜 9. License
-
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
 MIT © `[Your Name]`
